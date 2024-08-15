@@ -14,6 +14,9 @@ const carro = new Object();
 carro.cor = "Preto";
 carro.modelo = "gol GTI";
 carro.ano = 2024;
+
+carro.modelo = "Nissan GT-R";
+carro.ano = 2022;
 console.log(carro);
 
 const filme = new Object();
